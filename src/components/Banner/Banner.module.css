@@ -1,0 +1,47 @@
+.banner {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    background-image: url("./banner.png");
+    align-items: center;
+}
+
+.cajaTexto {
+    width: 50%;
+    padding: 0 75px 0 25px;
+}
+
+.cajaTexto h1 {
+    background-color: #6BD1FF;
+    width: 290px;
+    height: 90px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    font-size: 40px;
+    border-radius: 15px;
+    color: #FFFFFF;
+}
+
+.cajaTexto h2 {
+    color: #FFFFFF;
+    font-size: 37px;
+    font-weight: 500;
+}
+
+.cajaTexto p {
+    color: #FFFFFF;
+}
+
+.cajaVideo {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.video {
+    width: 510px;
+    height: 270px;
+    border-radius: 14px;
+}

@@ -1,0 +1,10 @@
+.botonBlanco {
+    width: 140px;
+    height: 35px;
+    border: 2px solid #FFFFFF;
+    background-color: #262626;
+    color: #FFFFFF;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+}

@@ -1,0 +1,80 @@
+{
+    "FRONT END":[
+        {
+            "id": 1,
+            "titulo": "cuando usar let, const y var",
+            "img": "https://i.ytimg.com/vi/PztCEdIJITY/maxresdefault.jpg",
+            "url": "https://youtu.be/PztCEdIJITY?si=T8rwgzaSVfuwTQnb",
+            "grupo": "FRONT END",
+            "descripcion": ""
+        },
+        {
+            "id": 2,
+            "titulo": "¿qué es javascript?",
+            "img": "https://i.ytimg.com/vi/GJfOSoaXk4s/mqdefault.jpg",
+            "url": "https://youtu.be/GJfOSoaXk4s?si=qW-dcQiEozKYtA_G",
+            "grupo": "FRONT END",
+            "descripcion": ""
+        },
+        {
+            "id": 3,
+            "titulo": "equipo front end",
+            "img": "https://i.ytimg.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
+            "url": "https://youtu.be/rpvrLaBQwgg?si=q-BFVo1vT9r3r0gP",
+            "grupo": "FRONT END",
+            "descripcion": ""
+        }
+    ],
+    "BACK END": [
+        {
+            "id": 1,
+            "titulo": "spring framework",
+            "img": "https://i.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
+            "url": "https://youtu.be/t-iqt1b2qqk?si=yZP2oKZim0KqULTi",
+            "grupo": "BACK END",
+            "descripcion": ""
+        },
+        {
+            "id": 2,
+            "titulo": "¿qué es sql y nosql?",
+            "img": "https://i.ytimg.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
+            "url": "https://youtu.be/cLLKVd5CNLc?si=mM0wxJOY0NEnugJv",
+            "grupo": "BACK END",
+            "descripcion": ""
+        },
+        {
+            "id": 3,
+            "titulo": "simplificando tu codi javascript, conoce lo enum",
+            "img": "https://i.ytimg.com/vi/EoPvlE85XAQ/maxresdefault.jpg",
+            "url": "https://youtu.be/EoPvlE85XAQ?si=g7TB3eTKvw9gg_jR",
+            "grupo": "BACK END",
+            "descripcion": ""
+        }
+    ],
+    "INNOVACIÓN Y GESTIÓN": [
+        {
+            "id": 1,
+            "titulo": "¿qué son las soft skills?",
+            "img": "https://i.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg",
+            "url": "https://youtu.be/vhwspfvI52k?si=h0qV62vf9GFcNSH8",
+            "grupo": "INNVACION Y GESTION",
+            "descripcion": ""
+        },
+        {
+            "id": 2,
+            "titulo": "las 7 soft skills más deseadas",
+            "img": "https://i.ytimg.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
+            "url": "https://youtu.be/YhR7Zp8NUzE?si=KIkkdn2EeijmdXO5",
+            "grupo": "INNVACION Y GESTION",
+            "descripcion": ""
+        },
+        {
+            "id": 3,
+            "titulo": "metodologias ágiles",
+            "img": "https://i.ytimg.com/vi/6N3OkLCfK-0/maxresdefault.jpg",
+            "url": "https://youtu.be/6N3OkLCfK-0?si=3dE_QuNecl1LuN1K",
+            "grupo": "INNVACION Y GESTION",
+            "descripcion": ""
+        }
+    ]
+}

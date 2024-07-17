@@ -1,0 +1,55 @@
+.h1 {
+    width: 300px;
+    height: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    border-radius: 15px;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.imagenes {
+    display: flex;
+    justify-content: space-around;
+}
+
+.cajaCard {
+    width: 300px;
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+    background-color: #000000;
+    border-radius: 19px;
+}
+
+.cajaImg {
+    display: flex;
+    justify-content: center;
+}
+
+.img {
+    width: 300px;
+    height: 180px;
+    display: flex;
+    border-radius: 17px 17px 0 0;
+}
+
+.cajaBoton {
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly; 
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.botones {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
